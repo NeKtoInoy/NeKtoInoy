@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=45a049&width=435&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=45a049&center=true&vCenter=true&width=435&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
+</div>
 
 <hr>
 
