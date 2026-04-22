@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=45a049&width=300&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
 </p>
 
-<p align="center"><a href="https://mynickname.com/nektoinoy"><img src="https://mynickname.com/img.php?nick=NeKtoInoy&sert=2" alt="Никнейм MALWARE зарегистрирован!" border="0" /></a></p>
-
 <h2 align="center">🛠️ Стек: Linux, Proxmox, Networking, DevOps</h2>
 
 <h1 align="center">Счётчик посетителей:</h1>
