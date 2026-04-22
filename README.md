@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=45a049&width=435&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <a href="https://mynickname.com/id1843579">
-    <img src="https://mynickname.com/img.php?id=1843579&sert=1" alt="Никнейм NeKtolnoy зарегистрирован!" border="0" />
-  </a>
-</p>
-
 <hr>
 
 <h2 align="center">🛠️ Стек технологий:</h2>
