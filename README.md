@@ -6,7 +6,7 @@
 
 <h2 align="center">🛠️ Стек технологий:</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Alt_Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alt_Linux-FFFF00?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E72B3F?style=for-the-badge&logo=proxmox&logoColor=white" />
