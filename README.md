@@ -1,8 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=45a049&width=300&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=45a049&width=435&lines=github.com%2FNeKtolnoy;System+Administrator;Proxmox+Enjoyer" alt="Typing SVG"/>
 </p>
 
-<h2 align="center">🛠️ Стек: Linux, Proxmox, Networking, DevOps</h2>
+<hr>
+
+<h2 align="center">🛠️ Стек технологий:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E72B3F?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<hr>
 
 <h1 align="center">Счётчик посетителей:</h1>
 <p align="center">
