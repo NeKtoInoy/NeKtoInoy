@@ -51,6 +51,6 @@
   <img src="https://count.getloli.com/@NeKtolnoy_counter?name=NeKtolnoy&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Счётчик"/>
 </p>
 
-<!-- Сюда потом скриншот рабочего стола вместо гифки:
-<p align="center"><img src="desktop.png" width="700"></p>
--->
+<p align="center">
+  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
+</p>
