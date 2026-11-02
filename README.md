@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NeKtoInoy/nektoinoy/output/snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/NeKtoInoy/NeKtoInoy/output/snake.svg" alt="snake"/>
 </p>
 
 <hr>
