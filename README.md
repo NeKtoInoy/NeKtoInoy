@@ -37,8 +37,11 @@
 
 <h2 align="center">📊 Статистика</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeKtoInoy&show_icons=true&hide_border=true&theme=dark&title_color=45A049&icon_color=45A049" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKtoInoy&layout=compact&hide_border=true&theme=dark&title_color=45A049" height="165"/>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="700"/>
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NeKtoInoy&hide_border=true&theme=dark&ring=45A049&fire=45A049&currStreakLabel=45A049"/>
