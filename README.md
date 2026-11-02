@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=45A049&center=true&vCenter=true&width=480&lines=github.com%2FNeKtoInoy;System+Administrator;Proxmox+Enjoyer;Linux+Ricer+(Hyprland);Minecraft+Modder;Self-hosted+everything" alt="Typing SVG"/>
+  <br>
+  <img src="cat.svg" alt="cat"/>
 </div>
 
 <hr>
@@ -45,6 +47,10 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NeKtoInoy&hide_border=true&theme=dark&ring=45A049&fire=45A049&currStreakLabel=45A049"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeKtoInoy/nektoinoy/output/snake.svg" alt="snake"/>
 </p>
 
 <hr>
